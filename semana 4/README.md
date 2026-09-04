@@ -31,7 +31,7 @@ Todas las mediciones se corrieron en la siguiente máquina:
 
 **Gráfico:**
 
-![Tiempo real vs número de hilos - Ejercicio A](semana%203/threading/ejercicioA_tiempo.png)
+![Tiempo real vs número de hilos - Ejercicio A](practica%203/threading/ejercicioA_tiempo.png)
 
 **Análisis — escalabilidad, proporción de código paralelo y eficiencia:**
 
@@ -58,7 +58,7 @@ Al calcular la aceleración no se obtiene speedup real, ya que al agregar más h
 
 **Gráfico:**
 
-![Tiempo vs número de hilos - Ejercicio B](semana%203/scaling/ejercicioB_tiempo.png)
+![Tiempo vs número de hilos - Ejercicio B](practica%203/scaling/ejercicioB_tiempo.png)
 
 **Tabla de apoyo — Speedup y eficiencia (`S(p) = T(1)/T(p)`, `E(p) = S(p)/p`):**
 
