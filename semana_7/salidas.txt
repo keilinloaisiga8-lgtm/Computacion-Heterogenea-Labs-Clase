@@ -1,0 +1,12 @@
+==== Ejercicio A: vector-add ====
+vector-add n=1048576: OK
+vector-add n=2097152: OK
+vector-add n=1000: OK
+
+==== Ejercicio B: dot-product ====
+dot-product n=1048576: gpu=-21.250000 cpu=-21.250000 error=0.000000 OK
+dot-product n=4194304: gpu=-0.500000 cpu=-0.500000 error=0.000000 OK
+
+==== Ejercicio C: softmax ====
+softmax rows=128 cols=1024: OK
+softmax rows=256 cols=2048: OK
